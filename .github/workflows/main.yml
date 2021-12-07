@@ -43,6 +43,6 @@ jobs:
           # API Token
           github-token: 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
           # List of file paths to eclude
-          excludes: Carthage, Pods
+          excludes: Carthage
           # List of types to exclude
-          exclude-types: h, m, jpg, png
+          exclude-types: h
